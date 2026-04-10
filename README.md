@@ -61,10 +61,10 @@ Built using **Power BI**, the dashboard helps track performance, identify trends
 ## 📸 Dashboard Preview
 
 ### 📌 Sales Dashboard
-![Sales](sales.png)
+![Sales](10.png)
 
 ### 📌 Profit Dashboard
-![Profit](profit.png)
+![Profit](20.png)
 
 ### 📌 Demographic Dashboard
-![Demographic](demographic.png)
+![Demographic](30.png)
