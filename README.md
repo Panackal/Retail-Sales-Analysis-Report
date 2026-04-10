@@ -62,7 +62,7 @@ Built using **Power BI**, the dashboard helps track performance, identify trends
 
 ### 📌 Sales Dashboard
 ![Sales](10.png)
-<img src="10.png" width="25%">
+<img src="10.png" width="50%">
 
 ### 📌 Profit Dashboard
 ![Profit](20.png)
